@@ -23,11 +23,11 @@ A seção cabeçalho inclui metainformações, como o título da página, autor,
 
 Este site é apenas um exemplo básico de pagina Web utilizada como método de estudo como ponto de partida para projetos Web mais complexos.
 
+## Layout
+
+![Study-web-page-layout](https://github.com/bkmoises/study-web-page/blob/main/imagens/study-web-page-layout.png)
 
 ## Dependências
 
 Navegador Web.
 
-## Layout
-
-![Study-web-page-layout](https://github.com/bkmoises/study-web-page/blob/main/imagens/study-web-page-layout.png)
